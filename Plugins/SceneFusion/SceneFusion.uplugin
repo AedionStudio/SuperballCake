@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2.0",
+	"FriendlyName": "Scene Fusion",
+	"Description": "KinematicSoup Scene Fusion Plugin",
+	"Category": "KinematicSoup",
+	"CreatedBy": "KinematicSoup Technologies Inc.",
+	"CreatedByURL": "https://www.kinematicsoup.com/scene-fusion/",
+	"DocsURL": "http://docs.kinematicsoup.com/SceneFusion2/index.html",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.20.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"RequiresBuildPlatform": true,
+	"Modules": [
+		{
+			"Name": "SceneFusion",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}

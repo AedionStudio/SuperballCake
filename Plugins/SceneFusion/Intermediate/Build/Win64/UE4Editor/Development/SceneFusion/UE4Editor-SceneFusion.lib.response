@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SceneFusion.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\PINN\Documents\Unreal Projects\Packaging4_20\Intermediate\Build\Win64\Packaging4_20Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\Users\PINN\Documents\Unreal Projects\Packaging4_20\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Development\SceneFusion\Module.SceneFusion.cpp.obj"
+"C:\Users\PINN\Documents\Unreal Projects\Packaging4_20\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Development\SceneFusion\Module.SceneFusion.gen.cpp.obj"
+"C:\Users\PINN\Documents\Unreal Projects\Packaging4_20\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Development\SceneFusion\PCLaunch.rc.res"
+/OUT:"C:\Users\PINN\Documents\Unreal Projects\Packaging4_20\Plugins\SceneFusion\Intermediate\Build\Win64\UE4Editor\Development\SceneFusion\UE4Editor-SceneFusion.lib"
